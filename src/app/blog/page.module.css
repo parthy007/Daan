@@ -1,0 +1,27 @@
+.container{
+}
+
+.wrapper{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    margin-bottom: 50px;
+    width: 100%;
+}
+
+.imgContainer{
+    height: 250px;
+    width: 30%;
+    position: relative;
+}
+
+.img{
+    object-fit: cover;
+}
+
+.content{
+    color: #999;
+    font-size: 18px;
+    width: 70%;
+}
+

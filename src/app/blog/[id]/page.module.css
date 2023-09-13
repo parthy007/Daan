@@ -1,0 +1,49 @@
+.container{
+}
+
+.topContainer{
+    display: flex;
+    gap: 20px;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    justify-content: space-between;
+}
+.title{
+    font-size: 40px;
+}
+.desc{
+    font-size: 18px;
+    font-weight: 300;
+}
+.author{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.avatar{
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.imageContainer{
+    flex: 1;
+    position: relative;
+    height: 300px;
+}
+
+.img{
+    object-fit: cover;
+}
+
+.bottomContainer{
+    margin-top: 50px;
+    font-size: 20px;
+    font-weight: 300;
+    color: #999;
+    text-align: justify;
+}
+

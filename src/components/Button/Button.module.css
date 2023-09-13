@@ -1,0 +1,12 @@
+.link{
+  width: max-content;
+}
+.container{
+    border: none;
+    background-color: #53c28b;
+    border-radius: 5px;
+    padding: 20px;
+    color: white;
+    width: max-content;
+    cursor: pointer;
+}
