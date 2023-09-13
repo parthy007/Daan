@@ -21,3 +21,8 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## Screenshots
 
 ![ScreenShot 1](/public/screenshot1.jpg)
+![ScreenShot 2](/public/screenshot2.jpg)
+![ScreenShot 3](/public/screenshot3.jpg)
+![ScreenShot 4](/public/screenshot4.jpg)
+![ScreenShot 5](/public/screenshot5.jpg)
+![ScreenShot 6](/public/screenshot6.jpg)
