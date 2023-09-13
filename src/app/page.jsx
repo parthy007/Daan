@@ -8,10 +8,9 @@ export default function Home() {
     <div className={styles.container}>
       
       <div className={styles.items}>
-        <h1 className={styles.title}>Better design for your digital products.</h1>
+        <h1 className={styles.title}>Join Our Mission to Make a Difference</h1>
         <p className={styles.desc}>
-          Turning your Idea into Reality. We bring together the teams from the
-          global tech industry.
+        We envision a world where compassion, kindness, and social responsibility drive positive change and create a brighter future for all.
         </p>
         <Button text="See Our Works" url="/portfolio"/>
       </div>
